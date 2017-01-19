@@ -9,7 +9,6 @@ Files:
 - admin-ip.php (Viewer w/ IP addresses)
 - db-config.php (Database Config)
 - index.php (Public Viewer)
-- css/
--- style.css (Stylesheet)
+- css/style.css (Stylesheet)
 
 Enjoy!
