@@ -1,5 +1,5 @@
 # sambc-request-viewer
-Simple Request Viewer for SAMBC
+Simple Request Viewer for SAM Broadcaster
 
 This is a simple request viewer that I made to display requests and dedacations.
 Just enter your database details in the db-config.php file, upload to your web server and you're good to go.
